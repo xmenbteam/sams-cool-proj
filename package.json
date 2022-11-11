@@ -1,0 +1,16 @@
+{
+  "name": "sams-cool-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "tscw": "tsc --watch"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
